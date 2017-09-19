@@ -6,3 +6,20 @@ This is the repository of Byeongchan An.
 
 Practice making a link:
 link to the [main STAT545 webpage](http://stat545.com/)  
+
+## Introduction
+**My name is *Byeongchan An*. I'm a MSc student in Finance.**
+I'm from *Korea*. I like travelling and skiing.
+Nice to meet you!
+
+![](https://i.imgur.com/zNssDtS.gif)
+
+## To-Dos
+
+- [x] homework1
+  + reading papers
+  + writing summaries
+- [x] homework2
+- [ ] homework3
+- [ ] homework4
+- [ ] homework
