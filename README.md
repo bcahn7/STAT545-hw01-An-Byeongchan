@@ -47,9 +47,9 @@ Within a list, four spaces at the begin of the line indicates the text is to be 
 
 
 - Add R Markdown and Markdown for Gapminder exploration  
-    [hw01_gapminder.Rmd](hw01_gapminder.Rmd)
-    [hw01_gapminder.md](hw01_gapminder.md)
-    [hw01_gapminder.html](hw01_gapminder.html)
+    [hw01_gapminder.Rmd](hw01_gapminder.Rmd)  
+    [hw01_gapminder.md](hw01_gapminder.md)  
+    [hw01_gapminder.html](hw01_gapminder.html)  
 
 #### Submit the assignment
  
